@@ -1,0 +1,26 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+.d-block{
+	width: 100%;
+	height: 70vh;
+	object-fit: cover;
+}
+.col{
+	 object-fit: cover;
+	 overflow: hidden;
+}
+
+ .card{
+	width: 100%;
+	 
+ }
+
+ /* @media (min-width: 200px) and (max-width: 1300px){
+	html,body{
+		 object-fit: cover;
+		 overflow: hidden;
+	}
+ } */
